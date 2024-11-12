@@ -1,1 +1,1 @@
-# CodeAlpha_Hangman
+This is a console-based Hangman game implemented in Python. Players can choose a category (Animals, Fruits, or Colors) and guess letters to uncover a randomly selected word. The game features ASCII art to display the hangman based on incorrect guesses, with prompts for user input and hints for the selected word. It's a simple and interactive way to enjoy the classic word-guessing game!
